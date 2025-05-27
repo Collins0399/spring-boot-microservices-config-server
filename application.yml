@@ -1,0 +1,5 @@
+# application.yml
+info:
+  app:
+    name: Global Config
+    description: Shared config for all services
